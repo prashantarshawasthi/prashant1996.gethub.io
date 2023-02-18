@@ -1,0 +1,54 @@
+body{
+    background-color: azure;
+	margin-right:10%;
+	margin-left:10%;
+}
+#div1
+{
+    border:1px solid;
+    width: 20%;
+    background-color: red;
+    color: white;
+    margin:0px;
+    padding: 50px;
+	float:left;
+}
+#div2
+{
+	border:px solid gray;
+	width:67%;
+	height:20px;
+	float:right;
+	hover:red;
+}
+#div3 {
+	float:right;
+	width:80%;
+	text-align:top;
+	padding:50px;
+	margin:-630px -70px;
+	font-size:36px;
+}
+#div4{
+	width:20%;
+	
+	
+}
+table{
+	color:red;
+	background-color:aqua;
+	height:px;
+}
+.pr{
+	height:510px;
+}
+.p
+{ 
+font-size:20px;
+margin:5px;
+	
+}
+#div5
+{
+	width:50px;
+}
